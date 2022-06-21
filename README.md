@@ -12,6 +12,7 @@
 <p >
 <a href="https://www.linkedin.com/in/rafaquatmalik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mr" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rafaquatmalik118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mr" height="30" width="40" /></a>
+<a href="https://twitter.com/RafaquatMalik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rafaquatmalik668/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr" height="30" width="40" /></a>
 <a href="https://discord.gg/#2837" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mr" height="30" width="40" /></a>
 </p>
