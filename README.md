@@ -26,5 +26,12 @@
 </p>
 
 
+<h3>GitHub Stats:</h3>
+  
+[![Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaquatmalik)](https://github.com/Rafaquatmalik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaquat&layout=compact)](https://github.com/Rafaquatmalik/github-readme-stats)
+
+
+
 
 
