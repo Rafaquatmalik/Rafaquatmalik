@@ -1,4 +1,4 @@
-<h2> Assalam-u-alikum 👋, my name is Hirdesh Kumar</h2>
+<h2> Assalam-u-alikum 👋, my name is Malik Rafaquat</h2>
 
 - 🌱 I’m currently learning Web development
 - 📙 My areas of interest are Artificial Intelligence, Data Sciences, Cloud Computing, Cloud Native, Microservices, API development.
