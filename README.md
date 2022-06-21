@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 📙 My areas of interest are Artificial Intelligence, Data Sciences, Cloud Computing, Cloud Native, Microservices, API development.
 - 👨‍💻 All of my projects are available at [Rafaquatmalik.github.io](https://github.com/Rafaquatmalik)
-- 💬 Ask me about **Javascript , python, ReactJS, NodeJS, ExpressJS, VueJS,  ML, AI, Data Science, Web 3.0 and Cloud Computing""
+- 💬 Ask me about **Javascript , python, ReactJS, NodeJS, ExpressJS, VueJS,  ML, AI, Data Science, Web 3.0 and Cloud Computing**
 - 📫 How to reach me **rafaqatm291@gmail.com**
 
 <h3 >Connect with me:</h3>
@@ -26,9 +26,15 @@
 </p>
 
 
+
+
+</P>
 <h3>GitHub Stats:</h3>
   
 [![Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaquatmalik)](https://github.com/Rafaquatmalik/github-readme-stats)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaquat&layout=compact)](https://github.com/Rafaquatmalik/github-readme-stats)
 
 
